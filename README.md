@@ -1,14 +1,15 @@
 # 히스토그램 확장, 평활화
 
 <h2>히스토그램 확장</h2><br>
-![image](https://github.com/anulabgit/digital_image_processing2/assets/127391777/411d27b1-49c8-4e61-b9c1-986b03550220)
+![268478702-d1c930b0-2a14-4a37-ab38-6c710d2e678f](https://github.com/anulabgit/digital_image_processing2/assets/127391777/1195ddee-1ca1-42ff-9dc1-78eaca739675)
 
 
 <h2>히스토그램 평활화1</h2><br>
-![image](https://github.com/anulabgit/digital_image_processing2/assets/127391777/a88195d5-4c29-40a0-85da-98d98de01d1a)
+![268478783-49d3eafe-f225-419e-a2e5-18a941c0d9a3](https://github.com/anulabgit/digital_image_processing2/assets/127391777/b4d14750-e7d9-42a0-b73f-c472a428e351)
+
 
 <h2>히스토그램 평활화2</h2><br>
-![image](https://github.com/anulabgit/digital_image_processing2/assets/127391777/b021f539-f68c-4ac0-b2f4-a64675f0f55e)
+![268479122-8755b789-a349-4599-a56d-35aff252beda](https://github.com/anulabgit/digital_image_processing2/assets/127391777/0a145817-85e7-4bd5-8a35-55eab4023b29)
 
 <h2>소감</h2>
 이 작업을 통해 영상 처리 기술을 적용하는 과정을 배웠습니다.<br>
