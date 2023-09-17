@@ -1,6 +1,6 @@
 # 히스토그램 확장, 평활화
 
-<h2>히스토그램 확장</h2><br>
+히스토그램 확장<br>
 ![268478702-d1c930b0-2a14-4a37-ab38-6c710d2e678f](https://github.com/anulabgit/digital_image_processing2/assets/127391777/1195ddee-1ca1-42ff-9dc1-78eaca739675)
 
 
